@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ea30c3ed.chunk.css",
+    "main.js": "/static/js/main.d833dbcc.chunk.js",
+    "main.js.map": "/static/js/main.d833dbcc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.72ca58cc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.72ca58cc.js.map",
+    "static/js/2.32d1d638.chunk.js": "/static/js/2.32d1d638.chunk.js",
+    "static/js/2.32d1d638.chunk.js.map": "/static/js/2.32d1d638.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a9cdec1e9deee66d1a7c4367dc8e6bc1.js": "/precache-manifest.a9cdec1e9deee66d1a7c4367dc8e6bc1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.ea30c3ed.chunk.css.map": "/static/css/main.ea30c3ed.chunk.css.map",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/chinonsosplash.gif": "/static/media/chinonsosplash.5c73b627.gif",
+    "static/media/dataSchience.svg": "/static/media/dataSchience.19b74877.svg",
+    "static/media/desc.png": "/static/media/desc.830ec425.png",
+    "static/media/all.css": "/static/media/fa-solid-900.8e4a6dcc.eot",
+    "static/media/feelingProud.svg": "/static/media/feelingProud.2936ce95.svg",
+    "static/media/fluantiX.png": "/static/media/fluantiX.3a5a596d.png",
+    "static/media/github_logo.png": "/static/media/github_logo.6eeb2e81.png",
+    "static/media/ladyhs.png": "/static/media/ladyhs.01401599.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72ca58cc.js",
+    "static/js/2.32d1d638.chunk.js",
+    "static/css/main.ea30c3ed.chunk.css",
+    "static/js/main.d833dbcc.chunk.js"
+  ]
+}
